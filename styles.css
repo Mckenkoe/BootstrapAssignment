@@ -1,0 +1,51 @@
+a{
+    color: rgba(0,0,0,.87);
+}
+
+.navfont a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(0,0,0,.87);
+    font-weight: 700;
+}
+.navfont a:hover{
+    color: green;
+}
+
+.logo{
+    margin-left: 20px;
+}
+
+.latte{
+    background-color: #ebdbc8;
+    
+}
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color:  rgb(212, 233, 226);
+    border-radius: .3rem;
+}
+
+.jumbotron a{
+    color: rgba(0,0,0,.87);
+}
+
+.jumbotron a:hover{
+    color: white;
+    background-color: #008248;;
+}
+
+
+.btn-green{
+    background-color: #008248;
+    border-color: #008248;
+
+}
+
+
+.center-c{
+    margin-bottom: 40px;
+    margin-left: 40px;
+    width: 400px;
+}
